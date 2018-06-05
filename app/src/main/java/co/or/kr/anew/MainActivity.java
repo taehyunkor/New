@@ -19,7 +19,8 @@ import com.kakao.util.exception.KakaoException;
 import java.security.MessageDigest;
 
 public class MainActivity extends AppCompatActivity {
-//깃허브 
+//깃허브
+    //깃허브 2
     private void getHashKey(){
         try {
             PackageInfo info = getPackageManager().getPackageInfo(
